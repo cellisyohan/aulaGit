@@ -1,5 +1,6 @@
 # Começando bem as aulas
 
+Tudo tem um momento, estudar!
 Esse é meu titulo inicial readme
 
 ## subtitulo 
